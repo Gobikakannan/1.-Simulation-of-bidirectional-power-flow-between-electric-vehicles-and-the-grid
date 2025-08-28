@@ -7,6 +7,7 @@ To Simulate bidirectional power flow between electric vehicles and the grid in M
 
 ## MATLAB CODING
 % Bidirectional Power Flow Simulation between EV and Grid
+```
 clc; clear; 
 close all;
 %% Parameters
@@ -75,6 +76,7 @@ ylabel('SOC (%)');
 xlabel('Time (hours)');
 title('EV Battery State of Charge');
 grid on;
+```
 ## Output
 ![WhatsApp Image 2025-08-21 at 11 39 57_cfc2a0a9](https://github.com/user-attachments/assets/2c1469df-a3b4-4a32-97a4-db0df4e2b4cf)
 
